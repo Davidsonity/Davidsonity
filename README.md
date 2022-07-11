@@ -51,7 +51,9 @@ I make use of data to building machine learning models, computer vision projects
 - Recommendation Systems
 - Computer Vision
 
-### 📦 My Projects
+<details>
+
+<summary>📦 My Projects</summary>
 
 | Name                 | A short summary                              | App  |
 | -------------------- | -------------------------------------------- | --------- |
@@ -63,3 +65,5 @@ I make use of data to building machine learning models, computer vision projects
 <!-- | Content Cell         | Content Cell                                | link | -->
 
 ### ***Check repository to see more !!!*** ###
+
+</details>
