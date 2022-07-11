@@ -51,10 +51,7 @@ I make use of data to building machine learning models, computer vision projects
 - Recommendation Systems
 - Computer Vision
 
-<details>
-  <summary>📦 My Projects</summary>
-  
-  
+### 📦 My Projects
 
 | Name                 | A short summary                              | App  |
 | -------------------- | -------------------------------------------- | --------- |
@@ -64,5 +61,6 @@ I make use of data to building machine learning models, computer vision projects
 | [Image WaterMarker](https://github.com/Davidsonity/WaterMarkingApp) | Add watermark to image  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-image-watermarking-app-6ycg9s.streamlitapp.com/) |
 | [Traffic Sign Classifer](https://github.com/Davidsonity/Traffic_Sign_Classifier) | Classifiy traffic signs  | NaN |
 <!-- | Content Cell         | Content Cell                                | link | -->
-  
-</details>
+\
+\
+**Check repository to see the rest**
