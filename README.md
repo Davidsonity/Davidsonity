@@ -11,7 +11,7 @@
 
 <p align='center'>
   
-  <a href="linkedin.com/in/emuejevoke-eshemitan-a63423219">
+  <a href="https://linkedin.com/in/emuejevoke-eshemitan-a63423219">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a href="https://twitter.com/davidsonity_">
@@ -61,6 +61,5 @@ I make use of data to building machine learning models, computer vision projects
 | [Image WaterMarker](https://github.com/Davidsonity/WaterMarkingApp) | Add watermark to image  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-image-watermarking-app-6ycg9s.streamlitapp.com/) |
 | [Traffic Sign Classifer](https://github.com/Davidsonity/Traffic_Sign_Classifier) | Classifiy traffic signs  | NaN |
 <!-- | Content Cell         | Content Cell                                | link | -->
-\
-\
-**Check repository to see the rest**
+
+### ***Check repository to see more !!!*** ###
