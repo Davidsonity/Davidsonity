@@ -39,17 +39,16 @@
 
 
 ## About Me
-I am an Data Science/Machine Learning enthusiast. I spend most of my time styding, researching and analysing data. \
+I am a Data Science/Machine Learning enthusiast. I spend most of my time styding, researching and analysing data. \
 I make use of data to building machine learning models, computer vision projects, recommendation Systems etc.
 
 ### Skills 🛠 
 - Python
-- Data Analysis
-- Data Visualization
+- Data Analysis/Visualization
 - Machine learning
 - Deep learnng
-- Recommendation Systems
 - Computer Vision
+- Recommendation Systems
 
 <details>
 
