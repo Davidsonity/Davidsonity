@@ -54,8 +54,8 @@ I make use of data to building machine learning models, computer vision projects
 
 <summary>📦 My Projects</summary>
 
-| Name                 | A short summary                              | App  |
-| -------------------- | -------------------------------------------- | --------- |
+| Name                 | A short summary                              | App  | Notebook |
+| -------------------- | -------------------------------------------- | --------- |-------- |
 | [Dog Breed Classifier](https://github.com/Davidsonity/Dog_Breed_Classifier) | Classifiy images of dogs  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlitapp.com/) |
 | [Zomato](https://github.com/Davidsonity/Zomato)   | Data Analysis/Visualization and Model Building   | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-zomato-app-oz2y4c.streamlitapp.com/) |
 | [Netflix Recommendation](https://github.com/Davidsonity/Netflix_Recommendation) | Recommendation engine  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-netflix-recommendation-app-gopbme.streamlitapp.com/) |
