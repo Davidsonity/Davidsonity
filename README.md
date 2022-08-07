@@ -39,7 +39,7 @@
 
 
 ## About Me
-I am a Data Science/Machine Learning enthusiast. I spend most of my time styding, researching and analysing data. \
+I am a Data Science/Machine Learning enthusiast. I spend most of my time studying, researching and analyzing data. \
 I make use of data to building machine learning models, computer vision projects, recommendation Systems etc.
 
 ### Skills 🛠 
