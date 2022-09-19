@@ -57,7 +57,7 @@ I make use of data to building machine learning models, computer vision projects
 
 <summary>📦 My Projects</summary>
 
-| Name                 | A short summary                              | App  | Notebook |
+| Name                 | A short summary                              | Website | Notebook |
 | -------------------- | -------------------------------------------- | --------- |-------- |
 | [GenderByVoice--Clustering](https://github.com/Davidsonity/Clustering---GenderByVoice)| Unsupervised Machine Learning Algorithm | NaN | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Clustering---GenderByVoice/blob/main/Gender.ipynb) |
 | [Dog Breed Classifier](https://github.com/Davidsonity/Dog_Breed_Classifier) | Classifiy images of dogs  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlitapp.com/) | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed_Classifier/blob/main/Notebook/Dog_Breed_Prediction.ipynb) |
