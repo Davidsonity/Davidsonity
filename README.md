@@ -48,13 +48,13 @@ I am a Data Science/Machine Learning enthusiast. I spend most of my time studyin
 I make use of data to building machine learning models, computer vision projects, recommendation Systems etc.
 
 ### Skills 🛠 
-- Python
+- Programming with Python
 - Data Analysis/Visualization
 - Machine learning
 - Deep learnng
+- Webscraping
 - Computer Vision
 - Recommendation Systems
-- Webscraping
 
 ### :fire: My Stats :
 
