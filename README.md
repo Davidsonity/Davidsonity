@@ -27,10 +27,10 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Davidsonity&show_icons=true&count_private=true&theme=dark" width="400"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/96771321/213231336-69d67cfa-1620-4a0b-94e9-1f0c8680a008.jpg" width="400"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsonity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -55,6 +55,17 @@ I make use of data to building machine learning models, computer vision projects
 - Computer Vision
 - Recommendation Systems
 - Webscraping
+
+### :fire: My Stats :
+
+<p align='center'>
+  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=Davidsonity&theme=dark" width="400"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsonity&layout=compact&theme=vision-friendly-dark" width="400"></a>
+</p>
+
 
 <details>
 
