@@ -30,6 +30,8 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Davidsonity&show_icons=true&count_private=true&theme=dark" width="400"></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsonity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
