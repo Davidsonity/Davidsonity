@@ -52,6 +52,7 @@ I make use of data to building machine learning models, computer vision projects
 - Deep learnng
 - Computer Vision
 - Recommendation Systems
+- Webscraping
 
 <details>
 
