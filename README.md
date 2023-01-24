@@ -70,18 +70,63 @@ I make use of data to building machine learning models, computer vision projects
 <details>
 
 <summary>📦 My Projects</summary>
-
-| Name                 | A short summary                              | Website | Notebook |
-| -------------------- | -------------------------------------------- | --------- |-------- |
-| [GenderByVoice--Clustering](https://github.com/Davidsonity/Clustering---GenderByVoice)| Unsupervised Machine Learning Algorithm | NaN | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Clustering---GenderByVoice/blob/main/Gender.ipynb) |
-| [Dog Breed Classifier](https://github.com/Davidsonity/Dog_Breed_Classifier) | Classifiy images of dogs  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlitapp.com/) | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed_Classifier/blob/main/Notebook/Dog_Breed_Prediction.ipynb) |
-| [Restaurants Ratings Predictions](https://github.com/Davidsonity/Restaurants-Rating-Prediction) | End to End ML Project: Regression | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-restaurants-rating-prediction-app-qsszth.streamlitapp.com/) | [![Made In Collab](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Davidsonity/Restaurants-Rating-Prediction/blob/main/notebook.ipynb) |
-| [Netflix Recommendation](https://github.com/Davidsonity/Netflix_Recommendation) | Recommendation engine  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-netflix-recommendation-app-gopbme.streamlitapp.com/) | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Netflix_Recommendation/blob/main/NoteBook/Netflix_Recommendation_Engine.ipynb) |
-| [Sentiment_Analysis-StrangerThings](https://github.com/Davidsonity/Sentiment_Analysis-StrangerThings) | Twitter Sentiment Analysis on the netflix Series Stranger things  | NaN | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Sentiment_Analysis-StrangerThings/blob/main/Notebook/Twitter_Sentiment.ipynb) |
-| [House Price Prediction](https://github.com/Davidsonity/House_Prices_Prediction) | Kaggle Competition | NaN | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/House_Prices_Prediction/blob/main/House_Price.ipynb) |
-| [Image WaterMarker](https://github.com/Davidsonity/WaterMarkingApp) | Add watermark to image  | [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://davidsonity-image-watermarking-app-6ycg9s.streamlitapp.com/) | Request |
-| [Traffic Sign Classifer](https://github.com/Davidsonity/Traffic_Sign_Classifier) | Classifiy traffic signs | NaN | [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Traffic_Sign_Classifier/blob/main/Notebook/Traffic_Sign_Classification.ipynb) |
-<!-- | Content Cell         | Content Cell                                | link | -->
+  <p>
+  </p>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>A short summary</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/Clustering---GenderByVoice">GenderByVoice--Clustering</a>
+    </td>
+    <td>Unsupervised Machine Learning Algorithm</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/Dog_Breed_Classifier">Dog Breed Classifier</a>
+    </td>
+    <td>Classifiy images of dogs</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/Restaurants-Rating-Prediction">Restaurants Ratings Predictions</a>
+    </td>
+    <td>End to End ML Project: Regression</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/Netflix_Recommendation">Netflix Recommendation</a>
+    </td>
+    <td>Recommendation engine</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/Sentiment_Analysis-StrangerThings">Sentiment_Analysis-StrangerThings</a>
+    </td>
+    <td>Twitter Sentiment Analysis on the netflix Series Stranger things</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/House_Prices_Prediction">House Price Prediction</a>
+    </td>
+    <td>Kaggle Competition</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/WaterMarkingApp">Image WaterMarker</a>
+    </td>
+    <td>Add watermark to image</td>
+  </tr>  
+  <tr>
+    <td>
+      <a href="https://github.com/Davidsonity/Traffic_Sign_Classifier">Traffic Sign Classifer</a>
+    </td>
+    <td>Classifiy traffic signs</td>
+  </tr>
+  
+</table>
 
 ### ***Check repository to see more !!!*** ###
 
