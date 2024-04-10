@@ -55,6 +55,8 @@ I make use of data to building machine learning models, computer vision projects
 - Webscraping
 - Computer Vision
 - Recommendation Systems
+- Natural Language Processing
+- Time Series
 
 ### :fire: My Stats :
 
